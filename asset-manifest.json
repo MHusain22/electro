@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/electro/static/css/main.204988b2.css",
+    "main.js": "/electro/static/js/main.f80eae67.js",
+    "static/media/mac.png": "/electro/static/media/mac.0f60ae116ecdce49ad50.png",
+    "static/media/headpbg.png": "/electro/static/media/headpbg.c4a4c26f84416e67fe9c.png",
+    "static/media/13pro.png": "/electro/static/media/13pro.a47285e38f62d101e43d.png",
+    "static/media/lastp.png": "/electro/static/media/lastp.ce36c3f658deba21fd82.png",
+    "static/media/rated1.png": "/electro/static/media/rated1.b511bb170116c02af73d.png",
+    "static/media/product6.jpg": "/electro/static/media/product6.e1b7ca0cd14f6966aa44.jpg",
+    "static/media/product1.jpg": "/electro/static/media/product1.2e6e43f5d5e40407d804.jpg",
+    "static/media/product3.jpg": "/electro/static/media/product3.ccd8f29e476bea7ec155.jpg",
+    "static/media/product4.jpg": "/electro/static/media/product4.ff443cfd7119b8490cf3.jpg",
+    "index.html": "/electro/index.html",
+    "main.204988b2.css.map": "/electro/static/css/main.204988b2.css.map",
+    "main.f80eae67.js.map": "/electro/static/js/main.f80eae67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204988b2.css",
+    "static/js/main.f80eae67.js"
+  ]
+}
